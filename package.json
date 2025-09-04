@@ -2,7 +2,7 @@
   "dependencies": {
     "dat.gui": "^0.7.7",
     "gsap": "^3.5.1",
-    "three": "^0.123.0",
+    "three": "^0.179.1",
     "three-rounded-box": "^0.1.1"
   },
   "devDependencies": {
